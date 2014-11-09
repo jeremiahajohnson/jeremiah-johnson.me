@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="images\jumboback.png" />
+    <Content Include="resume.html" />
     <Content Include="projects.html" />
     <Content Include="index.html" />
     <Content Include="styles.css" />
